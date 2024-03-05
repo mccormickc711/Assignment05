@@ -1,10 +1,10 @@
 # Assignment05
 The BasicMathOperations project is an application built in Python that offers a range of functions. It allows users to interact by welcoming them adding numbers carrying out tasks (like addition subtraction, multiplication, division) squaring numbers calculating factorials counting from one number, to another determining the hypotenuse of a right angled triangle finding the area of a rectangle raising a number to a power and identifying the type of an input.
 
-Significance of the Project
+Significance of the Project: 
 This project acts as an tool for grasping and implementing Object Oriented Programming (OOP) principles in Python. It showcases how classes and methods can be used to structure and execute code efficiently. Ideal for beginners looking to gain exposure to Python programming with a focus on operations and user inputs. It also integrates error handling mechanisms for managing exceptions and enhancing code reliability.
 
-Getting Started with the Project
+Getting Started with the Project: 
 To begin engaging with the project; Clone the Repository. Initiate by cloning the repository onto your system. This grants access to all files needed for running the project.
 
 Explore the BasicMathOperations Class. Launch the project in your Integrated Development Environment (IDE). Acquaint yourself with the BasicMathOperations class, alongside its methods.
